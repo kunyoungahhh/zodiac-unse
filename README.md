@@ -7,4 +7,8 @@ Zodia Fortune Teller Web application developed using Node-RED. The application u
 - Read your result
 - Share your result on Twitter
 
+## Screenshots
+
+![Example Screen](zodiac_res.JPG)
+
 Status: Done
